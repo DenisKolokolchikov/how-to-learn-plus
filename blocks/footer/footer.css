@@ -5,3 +5,8 @@
   padding-bottom: 40px;
   min-height: 350px;
 }
+
+.footer a {
+  display: block;
+  color: #f2f2f2;
+}
