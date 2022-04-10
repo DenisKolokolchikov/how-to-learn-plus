@@ -1,4 +1,5 @@
 .footer__column-links {
+  text-decoration: none;
   line-height: 18px;
   font-size: 18px;
   font-weight: normal;
