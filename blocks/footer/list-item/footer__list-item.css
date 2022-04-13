@@ -1,0 +1,9 @@
+.footer__list-item {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.footer__list-item:hover {
+  transition: 0.5s linear;
+  opacity: 0.5;
+}
