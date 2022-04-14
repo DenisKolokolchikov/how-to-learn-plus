@@ -1,7 +1,9 @@
 .resources__logo {
+  display: flex;
+  justify-content: center;
   width: 270px;
-  background-size: contain;
-  background-size: cover;
+  height: 38px;
+  padding-top: 80px;
 }
 
 .resources__logo:hover {
